@@ -96,11 +96,12 @@ Implements comprehensive data validation
 
 Responsive design that works on desktop and mobile devices
 
-Requirements
+Requirements 🙂
+```
 Python 3.7+
 
 Flet library
-
+```
 Contributing
 Feel free to fork this project and submit pull requests for any improvements. Some potential enhancements:
 
